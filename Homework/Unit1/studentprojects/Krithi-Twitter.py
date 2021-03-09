@@ -71,4 +71,3 @@ def get_followers(screen_name, keys=['name', 'followers_count', 'friends_count',
 # res = get_followers('GA', ['name', 'screen_name', 'followers_count', 'friends_count'], True)
 # print(res)
 
-                            
