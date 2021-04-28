@@ -1,0 +1,7 @@
+streamlit == 0.67.0
+scikit-learn
+pandas
+category_encoders == 2.*
+xgboost == 1.3.*
+protobuf == 3.13.0
+plotly == 4.12.0
